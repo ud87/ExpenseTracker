@@ -6,7 +6,7 @@ namespace ExpenseTracker.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private readonly ILogger<HomeController> _logger; //Injecting the ILogger interface to log messages
 
         public HomeController(ILogger<HomeController> logger)
         {

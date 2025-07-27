@@ -339,3 +339,6 @@ D:\Programming\C sharp Projects\Expense Tracker\ExpenseTrackerApp\ExpenseTracker
 D:\Programming\C sharp Projects\Expense Tracker\ExpenseTrackerApp\ExpenseTracker\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
 D:\Programming\C sharp Projects\Expense Tracker\ExpenseTrackerApp\ExpenseTracker\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
 D:\Programming\C sharp Projects\Expense Tracker\ExpenseTrackerApp\ExpenseTracker\obj\Debug\net9.0\ExpenseTracker.sourcelink.json
+D:\Programming\C sharp Projects\Expense Tracker\ExpenseTrackerApp\ExpenseTracker\bin\Debug\net9.0\Syncfusion.EJ2.dll
+D:\Programming\C sharp Projects\Expense Tracker\ExpenseTrackerApp\ExpenseTracker\bin\Debug\net9.0\Syncfusion.Licensing.dll
+D:\Programming\C sharp Projects\Expense Tracker\ExpenseTrackerApp\ExpenseTracker\obj\Debug\net9.0\ExpenseTracker.MvcApplicationPartsAssemblyInfo.cs

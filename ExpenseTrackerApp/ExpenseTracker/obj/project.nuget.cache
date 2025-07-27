@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "HWvOJAexwEU=",
+  "dgSpecHash": "zYlEvcbujzo=",
   "success": true,
   "projectFilePath": "D:\\Programming\\C sharp Projects\\Expense Tracker\\ExpenseTrackerApp\\ExpenseTracker\\ExpenseTracker.csproj",
   "expectedPackageFiles": [
@@ -125,6 +125,8 @@
     "C:\\Users\\UD\\.nuget\\packages\\nuget.projectmodel\\6.11.0\\nuget.projectmodel.6.11.0.nupkg.sha512",
     "C:\\Users\\UD\\.nuget\\packages\\nuget.protocol\\6.11.0\\nuget.protocol.6.11.0.nupkg.sha512",
     "C:\\Users\\UD\\.nuget\\packages\\nuget.versioning\\6.11.0\\nuget.versioning.6.11.0.nupkg.sha512",
+    "C:\\Users\\UD\\.nuget\\packages\\syncfusion.ej2.aspnet.core\\30.1.41\\syncfusion.ej2.aspnet.core.30.1.41.nupkg.sha512",
+    "C:\\Users\\UD\\.nuget\\packages\\syncfusion.licensing\\30.1.41\\syncfusion.licensing.30.1.41.nupkg.sha512",
     "C:\\Users\\UD\\.nuget\\packages\\system.clientmodel\\1.0.0\\system.clientmodel.1.0.0.nupkg.sha512",
     "C:\\Users\\UD\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
     "C:\\Users\\UD\\.nuget\\packages\\system.collections.immutable\\8.0.0\\system.collections.immutable.8.0.0.nupkg.sha512",

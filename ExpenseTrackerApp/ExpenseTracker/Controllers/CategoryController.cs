@@ -14,12 +14,13 @@ namespace ExpenseTracker.Controllers
     {
         private readonly ApplicationDbContext _context;
 
+        // Constructor that initializes the ApplicationDbContext
         public CategoryController(ApplicationDbContext context)
         {
-            _context = context;
+            _context = context; // Value of ApplicationDbContext will be passed on to private property _context, this is required to Inject the ApplicationDbContext to access the database
         }
 
-        // GET: Category
+        // GET: Category action method
         public async Task<IActionResult> Index()
         {
             return View(await _context.Categories.ToListAsync());

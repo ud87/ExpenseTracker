@@ -11,7 +11,8 @@
           "Microsoft.EntityFrameworkCore": "9.0.7",
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.7",
           "Microsoft.EntityFrameworkCore.Tools": "9.0.7",
-          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "9.0.0"
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "9.0.0",
+          "Syncfusion.EJ2.AspNet.Core": "30.1.41"
         },
         "runtime": {
           "ExpenseTracker.dll": {}
@@ -1838,6 +1839,26 @@
           }
         }
       },
+      "Syncfusion.EJ2.AspNet.Core/30.1.41": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.3",
+          "Syncfusion.Licensing": "30.1.41"
+        },
+        "runtime": {
+          "lib/net9.0/Syncfusion.EJ2.dll": {
+            "assemblyVersion": "30.1.41.0",
+            "fileVersion": "30.1.41.0"
+          }
+        }
+      },
+      "Syncfusion.Licensing/30.1.41": {
+        "runtime": {
+          "lib/net9.0/Syncfusion.Licensing.dll": {
+            "assemblyVersion": "30.1.41.0",
+            "fileVersion": "30.1.41.0"
+          }
+        }
+      },
       "System.ClientModel/1.0.0": {
         "dependencies": {
           "System.Memory.Data": "1.0.2",
@@ -2917,6 +2938,20 @@
       "sha512": "sha512-v/GGlIj2dd7svplFmASWEueu62veKW0MrMtBaZ7QG8aJTSGv2yE+pgUGhXRcQ4nxNOEq/wLBrz1vkth/1SND7A==",
       "path": "nuget.versioning/6.11.0",
       "hashPath": "nuget.versioning.6.11.0.nupkg.sha512"
+    },
+    "Syncfusion.EJ2.AspNet.Core/30.1.41": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kYB3nXxVcHHgNoD6IMbckwDEDi6FqmavQ+zllGm09zxPwmFVOuHBkCEknd/oa+lvbHUyH6bVT1KX7ApsB9GbsA==",
+      "path": "syncfusion.ej2.aspnet.core/30.1.41",
+      "hashPath": "syncfusion.ej2.aspnet.core.30.1.41.nupkg.sha512"
+    },
+    "Syncfusion.Licensing/30.1.41": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BJQQBEXtO+mYDdzWIVt0dfooV9KOWtCCYl3SV0sR/QPZSRRITGztKbyaXBzCvLumi21kVznvVJp2ql2cjDCFYw==",
+      "path": "syncfusion.licensing/30.1.41",
+      "hashPath": "syncfusion.licensing.30.1.41.nupkg.sha512"
     },
     "System.ClientModel/1.0.0": {
       "type": "package",
