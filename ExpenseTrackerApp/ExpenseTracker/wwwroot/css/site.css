@@ -63,3 +63,8 @@ body {
     border-radius: 1rem;
     background-color: #1a222b;
 }
+
+/*table properties*/
+.table {
+    background-color: #12161d;
+}

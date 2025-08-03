@@ -67,8 +67,16 @@ namespace ExpenseTracker.Controllers
         {
             if (ModelState.IsValid)
             {
-                _context.Add(category);
-                await _context.SaveChangesAsync();
+                if (category.CategoryId == 0) // If CategoryId is 0, it means we are adding a new category
+                {
+                    _context.Add(category); // Add the new category to the context
+                }
+                else // If CategoryId is not 0, it means we are editing an existing category
+                {
+                    _context.Update(category); // Update the existing category in the context
+                }
+
+                await _context.SaveChangesAsync(); // Save changes to the database
                 return RedirectToAction(nameof(Index));
             }
             return View(category);
