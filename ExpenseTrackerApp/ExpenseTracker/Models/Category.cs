@@ -16,5 +16,13 @@ namespace ExpenseTracker.Models
 
         [Column(TypeName = "nvarchar(10)")]
         public string Type { get; set; } = "Expense"; // for e.g. income, expense, etc, default is "Expense"
+
+        [NotMapped] // This property is not mapped to the database
+        public string? TitleWithIcon {
+            get
+            { 
+                return this.Icon + " " + this.Title; // Combines icon and title for display purposes
+            }
+        }
     }
 }
