@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hK0ksNV7ovzWD8SgAVSI1KTq3IBSfy8QzA+q72aXzPI=",
+  "Hash": "fz1dThVuk8vV5xcNKSagiJPC3dyZrT/jscKgIyxePws=",
   "Source": "ExpenseTracker",
   "BasePath": "_content/ExpenseTracker",
   "Mode": "Default",
@@ -101,12 +101,12 @@
       "OriginalItemSpec": "D:\\Programming\\C sharp Projects\\Expense Tracker\\ExpenseTrackerApp\\ExpenseTracker\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\Programming\\C sharp Projects\\Expense Tracker\\ExpenseTrackerApp\\ExpenseTracker\\obj\\Debug\\net9.0\\compressed\\2kc4ra80sh-7wgbq3z6ch.gz",
+      "Identity": "D:\\Programming\\C sharp Projects\\Expense Tracker\\ExpenseTrackerApp\\ExpenseTracker\\obj\\Debug\\net9.0\\compressed\\2kc4ra80sh-r2z06lw5ej.gz",
       "SourceId": "ExpenseTracker",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Programming\\C sharp Projects\\Expense Tracker\\ExpenseTrackerApp\\ExpenseTracker\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ExpenseTracker",
-      "RelativePath": "css/site#[.{fingerprint=7wgbq3z6ch}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=r2z06lw5ej}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -115,8 +115,8 @@
       "RelatedAsset": "D:\\Programming\\C sharp Projects\\Expense Tracker\\ExpenseTrackerApp\\ExpenseTracker\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "n1xdari2vn",
-      "Integrity": "deFvc4EJloOPTNSROWSvyGbR9Hf3FLATYBU/t7AMysc=",
+      "Fingerprint": "1hfqr6p8a7",
+      "Integrity": "1TM3kHxRYhwUTc8R6RTNxDVtTsnEMPIvCNw3qTesFlo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\Programming\\C sharp Projects\\Expense Tracker\\ExpenseTrackerApp\\ExpenseTracker\\wwwroot\\css\\site.css"
@@ -1417,8 +1417,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "7wgbq3z6ch",
-      "Integrity": "ud/4cExtMRioLRfSVuxfUVxAFfCe8Faw7Bla6BRwgHI=",
+      "Fingerprint": "r2z06lw5ej",
+      "Integrity": "kyvdIELeKEYUpxfbDduWfp0T7N+0xO/tQUJpvvGtDOk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -2728,13 +2728,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.7wgbq3z6ch.css",
-      "AssetFile": "D:\\Programming\\C sharp Projects\\Expense Tracker\\ExpenseTrackerApp\\ExpenseTracker\\obj\\Debug\\net9.0\\compressed\\2kc4ra80sh-7wgbq3z6ch.gz",
+      "Route": "css/site.css",
+      "AssetFile": "D:\\Programming\\C sharp Projects\\Expense Tracker\\ExpenseTrackerApp\\ExpenseTracker\\obj\\Debug\\net9.0\\compressed\\2kc4ra80sh-r2z06lw5ej.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001828153565"
+          "Quality": "0.001447178003"
         }
       ],
       "ResponseHeaders": [
@@ -2744,19 +2744,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "546"
+          "Value": "690"
         },
         {
           "Name": "ETag",
-          "Value": "\"deFvc4EJloOPTNSROWSvyGbR9Hf3FLATYBU/t7AMysc=\""
+          "Value": "\"1TM3kHxRYhwUTc8R6RTNxDVtTsnEMPIvCNw3qTesFlo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 03 Aug 2025 10:03:00 GMT"
+          "Value": "Mon, 04 Aug 2025 21:21:27 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -2772,26 +2772,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ud/4cExtMRioLRfSVuxfUVxAFfCe8Faw7Bla6BRwgHI=\""
+          "Value": "W/\"kyvdIELeKEYUpxfbDduWfp0T7N+0xO/tQUJpvvGtDOk=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "7wgbq3z6ch"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-ud/4cExtMRioLRfSVuxfUVxAFfCe8Faw7Bla6BRwgHI="
+          "Value": "sha256-kyvdIELeKEYUpxfbDduWfp0T7N+0xO/tQUJpvvGtDOk="
         }
       ]
     },
     {
-      "Route": "css/site.7wgbq3z6ch.css",
+      "Route": "css/site.css",
       "AssetFile": "D:\\Programming\\C sharp Projects\\Expense Tracker\\ExpenseTrackerApp\\ExpenseTracker\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2801,7 +2793,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1357"
+          "Value": "2061"
         },
         {
           "Name": "Content-Type",
@@ -2809,11 +2801,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ud/4cExtMRioLRfSVuxfUVxAFfCe8Faw7Bla6BRwgHI=\""
+          "Value": "\"kyvdIELeKEYUpxfbDduWfp0T7N+0xO/tQUJpvvGtDOk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 03 Aug 2025 10:03:00 GMT"
+          "Value": "Mon, 04 Aug 2025 21:21:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kyvdIELeKEYUpxfbDduWfp0T7N+0xO/tQUJpvvGtDOk="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "D:\\Programming\\C sharp Projects\\Expense Tracker\\ExpenseTrackerApp\\ExpenseTracker\\obj\\Debug\\net9.0\\compressed\\2kc4ra80sh-r2z06lw5ej.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "690"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1TM3kHxRYhwUTc8R6RTNxDVtTsnEMPIvCNw3qTesFlo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 04 Aug 2025 21:21:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1TM3kHxRYhwUTc8R6RTNxDVtTsnEMPIvCNw3qTesFlo="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.r2z06lw5ej.css",
+      "AssetFile": "D:\\Programming\\C sharp Projects\\Expense Tracker\\ExpenseTrackerApp\\ExpenseTracker\\obj\\Debug\\net9.0\\compressed\\2kc4ra80sh-r2z06lw5ej.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001447178003"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "690"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1TM3kHxRYhwUTc8R6RTNxDVtTsnEMPIvCNw3qTesFlo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 04 Aug 2025 21:21:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"kyvdIELeKEYUpxfbDduWfp0T7N+0xO/tQUJpvvGtDOk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r2z06lw5ej"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kyvdIELeKEYUpxfbDduWfp0T7N+0xO/tQUJpvvGtDOk="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.r2z06lw5ej.css",
+      "AssetFile": "D:\\Programming\\C sharp Projects\\Expense Tracker\\ExpenseTrackerApp\\ExpenseTracker\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2061"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kyvdIELeKEYUpxfbDduWfp0T7N+0xO/tQUJpvvGtDOk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 04 Aug 2025 21:21:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2823,7 +2960,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "7wgbq3z6ch"
+          "Value": "r2z06lw5ej"
         },
         {
           "Name": "label",
@@ -2831,13 +2968,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ud/4cExtMRioLRfSVuxfUVxAFfCe8Faw7Bla6BRwgHI="
+          "Value": "sha256-kyvdIELeKEYUpxfbDduWfp0T7N+0xO/tQUJpvvGtDOk="
         }
       ]
     },
     {
-      "Route": "css/site.7wgbq3z6ch.css.gz",
-      "AssetFile": "D:\\Programming\\C sharp Projects\\Expense Tracker\\ExpenseTrackerApp\\ExpenseTracker\\obj\\Debug\\net9.0\\compressed\\2kc4ra80sh-7wgbq3z6ch.gz",
+      "Route": "css/site.r2z06lw5ej.css.gz",
+      "AssetFile": "D:\\Programming\\C sharp Projects\\Expense Tracker\\ExpenseTrackerApp\\ExpenseTracker\\obj\\Debug\\net9.0\\compressed\\2kc4ra80sh-r2z06lw5ej.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2846,7 +2983,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "546"
+          "Value": "690"
         },
         {
           "Name": "Content-Type",
@@ -2854,11 +2991,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"deFvc4EJloOPTNSROWSvyGbR9Hf3FLATYBU/t7AMysc=\""
+          "Value": "\"1TM3kHxRYhwUTc8R6RTNxDVtTsnEMPIvCNw3qTesFlo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 03 Aug 2025 10:03:00 GMT"
+          "Value": "Mon, 04 Aug 2025 21:21:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2876,7 +3013,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "7wgbq3z6ch"
+          "Value": "r2z06lw5ej"
         },
         {
           "Name": "label",
@@ -2884,144 +3021,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-deFvc4EJloOPTNSROWSvyGbR9Hf3FLATYBU/t7AMysc="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css",
-      "AssetFile": "D:\\Programming\\C sharp Projects\\Expense Tracker\\ExpenseTrackerApp\\ExpenseTracker\\obj\\Debug\\net9.0\\compressed\\2kc4ra80sh-7wgbq3z6ch.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001828153565"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "546"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"deFvc4EJloOPTNSROWSvyGbR9Hf3FLATYBU/t7AMysc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 03 Aug 2025 10:03:00 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"ud/4cExtMRioLRfSVuxfUVxAFfCe8Faw7Bla6BRwgHI=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-ud/4cExtMRioLRfSVuxfUVxAFfCe8Faw7Bla6BRwgHI="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css",
-      "AssetFile": "D:\\Programming\\C sharp Projects\\Expense Tracker\\ExpenseTrackerApp\\ExpenseTracker\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1357"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ud/4cExtMRioLRfSVuxfUVxAFfCe8Faw7Bla6BRwgHI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 03 Aug 2025 10:03:00 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-ud/4cExtMRioLRfSVuxfUVxAFfCe8Faw7Bla6BRwgHI="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css.gz",
-      "AssetFile": "D:\\Programming\\C sharp Projects\\Expense Tracker\\ExpenseTrackerApp\\ExpenseTracker\\obj\\Debug\\net9.0\\compressed\\2kc4ra80sh-7wgbq3z6ch.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "546"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"deFvc4EJloOPTNSROWSvyGbR9Hf3FLATYBU/t7AMysc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 03 Aug 2025 10:03:00 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-deFvc4EJloOPTNSROWSvyGbR9Hf3FLATYBU/t7AMysc="
+          "Value": "sha256-1TM3kHxRYhwUTc8R6RTNxDVtTsnEMPIvCNw3qTesFlo="
         }
       ]
     },
